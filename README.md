@@ -4,7 +4,7 @@ Research seminar project based on Avramov, Cheng and Metzker (2023), *Machine Le
 
 ## Group members
 
-- [Chistyakova Maria](https://github.com/mariachistiakova)
+- [Chistiakova Maria](https://github.com/mariachistiakova)
 - [Meyzler Liya](https://github.com/kodallline)
 - [Rudko Sofia](https://github.com/Sophie-Rudko)
 - [Samoilova Maria](https://github.com/merysamoylova)
