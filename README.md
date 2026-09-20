@@ -2,7 +2,12 @@
 
 Research seminar project based on Avramov, Cheng and Metzker (2023), *Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability*, *Management Science*. This is an adaptation using our own dataset, not a replication of the authors' original results.
 
-**Group:** Chistyakova Maria, Meyzler Liya, Rudko Sofia, Samoilova Maria.
+## Group members
+
+- [Chistyakova Maria](https://github.com/mariachistiakova)
+- Meyzler Liya
+- [Rudko Sofia](https://github.com/Sophie-Rudko)
+- [Samoilova Maria](https://github.com/merysamoylova)
 
 ## Project
 
